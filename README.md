@@ -7,3 +7,5 @@ an image slider using JavaScript that:
 • Has Next and Previous buttons to navigate through images.
 
 • Uses an array of image URLs.
+
+Live Project Url:https://todolist-project-todolist.netlify.app/
